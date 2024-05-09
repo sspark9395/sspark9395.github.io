@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Operated by</a> Soon Sang Park, M.D., Ph.D.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: LogoATM.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>(phone)+82-31-219-4443</p>
+    <p>(email)sspark9395@ajou.ac.kr</p>
+    <p>(address)Songjae 309,<br> &emsp;Ajou University</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to Ajou Translational Medicine (ATM) Lab!<br>
+Our lab is located in Ajou University Hospital, Suwon, South Korea.<br>
+We are engaged in a wide range of translational medicine research, with a focus on `senescence and aging`, `skin aging`, and `cancer cell senescence`.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We have recently published multiple studies related to senescence, aging, and cancer. Please check the publications, CV, and people pages in the upper menu.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We are currently interested in establishing a foundation or a digital twin model based on transcriptomics data, such as single-cell RNA sequencing, using generative artificial intelligence.
+
+If you are interested in joining us, please do not hesitate to contact us via email at sspark9395@ajou.ac.kr.<br>
+Likewise, if you are interested in collaborating with us, please feel free to reach out!
+

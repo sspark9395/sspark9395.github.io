@@ -20,12 +20,12 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to Ajou Translational Medicine (ATM) Lab!<br>
 Our lab is located in Ajou University Hospital, Suwon, South Korea.<br>
-We are engaged in a wide range of translational medicine research, with a focus on `senescence and aging`, `skin aging`, and `cancer cell senescence`.
+We are engaged in a wide range of translational medicine research, with a focus on `cellular senescence and aging`, `skin aging`, and `cancer cell senescence`.
 
 We have recently published multiple studies related to senescence, aging, and cancer. Please check the publications, CV, and people pages in the upper menu.
 
 We are currently interested in establishing a foundation or a digital twin model based on transcriptomics data, such as single-cell RNA sequencing, using generative artificial intelligence.
 
-If you are interested in joining us, please do not hesitate to contact us via email at sspark9395@ajou.ac.kr.<br>
+If you are interested in joining us, please do not hesitate to contact us via email at `sspark9395@ajou.ac.kr`.<br>
 Likewise, if you are interested in collaborating with us, please feel free to reach out!
 

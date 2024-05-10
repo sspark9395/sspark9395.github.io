@@ -29,7 +29,7 @@
       "institution": "&ensp;Ulsan National Institute of Science and Technology <br> &ensp;(UNIST)",
       "location": "Ulsan, South Korea",
       "url": "https://unist.ac.kr",
-      "area": "&ensp; B.S - Biological Science",
+      "area": "&ensp; Biological Science",
       "studyType": "&ensp;Bachelor in Science",
       "startDate": "2010-03-01",
       "endDate": "2016-02-16"
@@ -57,7 +57,7 @@
     {
       "name": "Ajou University School of Medicine",
       "position": "&nbsp;MD Assistant",
-      "url": "",
+      "url": "https://www.ajoumc.or.kr/",
       "startDate": "2020-03-01",
       "endDate": "2023-02-28",
       "summary": "Teaching Biochemistry and Molecular Biology Experiments at Ajou University",
@@ -66,7 +66,7 @@
     {
       "name": "Ajou University School of Medicine",
       "position": "&ensp;Research Fellow",
-      "url": "",
+      "url": "https://www.ajoumc.or.kr/",
       "startDate": "2023-03-01",
       "endDate": "Present",
       "summary": "Research on Cellular Senescence <br> and Cancer Cell Senescence",
@@ -78,13 +78,13 @@
       "title": "Rising Researcher Awards in Preclinical Medicine",
       "date": "2024-04-28",
       "awarder": "Korean Medical Association, South Korea",
-      "url": ""
+      "url": "https://www.kma.org/"
     },
     {
       "title": "Outstanding Researcher Award",
       "date": "2023-12-09",
       "awarder": "Minister of Health and Welfare, South Korea",
-      "url": ""
+      "url": "www.khidi.or.kr"
     }
   ],
   "publications": [
@@ -130,18 +130,18 @@
     {
       "name": "&ensp;The Emerging M.D.-Ph.D. Grant Program",
       "summary": "Funded by Ministry of Health and Welfare",
-      "highlights": ["15,000 USD/yr"],
+      "highlights": ["150,000 USD/yr"],
       "startDate": "2024-04-01",
-      "endDate": "",
+      "endDate": "www.khidi.or.kr",
       "url": ""
     },
     {
       "name": "The M.D.-Ph.D./Medical Scientist Training Program",
       "summary": "Funded by Ministry of Health and Welfare",
-      "highlights": ["3,700 USD/yr"],
+      "highlights": ["37,000 USD/yr"],
       "startDate": "2022-04-01",
       "endDate": "2024-02-28",
-      "url": ""
+      "url": "www.khidi.or.kr"
     }
   ],
   "interests": [

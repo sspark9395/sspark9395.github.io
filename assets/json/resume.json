@@ -47,13 +47,31 @@
       "institution": "&ensp;Ajou University School of Medicine",
       "location": "Suwon, South Korea",
       "url": "https://ajou.ac.kr",
-      "area": "&ensp;Cancer Biology",
+      "area": "&ensp;Cancer Biology (Advisor: Tae Jun Park., M.D., Ph.D.)",
       "studyType": "&ensp;Doctor of Philosophy in Medicine (Ph.D.)",
       "startDate": "2020-03-01",
       "endDate": "2024-02-22"
     }
   ],
   "work": [
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "position": "&ensp;Visiting Researcher",
+      "url": "https://www.unc.edu/",
+      "startDate": "2013-11",
+      "endDate": "2014-02",
+      "summary": "Research on Lab-on-a-chip for Cancer Diagnosis<br>Advisor: Steven A. Soper, Ph.D.",
+      "highlights": []
+    },
+    {
+      "name": "Ulsan National Institute of Science and Technology (UNIST)",
+      "position": "&ensp;Laboratory Internship",
+      "url": "https://www.unist.ac.kr/",
+      "startDate": "2013-06",
+      "endDate": "2015-05",
+      "summary": "Research on the role of TonEBP in inflammatory diseases<br>Advisor: Hyug Moo Kwon, Ph.D.",
+      "highlights": []
+    },    
     {
       "name": "Ajou University School of Medicine",
       "position": "&nbsp;MD Assistant",
@@ -77,13 +95,13 @@
     {
       "title": "Rising Researcher Awards in Preclinical Medicine",
       "date": "2024-04-28",
-      "awarder": "Korean Medical Association, South Korea",
+      "awarder": "The President of Korean Medical Association,<br> South Korea",
       "url": "https://www.kma.org/"
     },
     {
       "title": "Outstanding Researcher Award",
       "date": "2023-12-09",
-      "awarder": "Minister of Health and Welfare, South Korea",
+      "awarder": "The Minister of Health and Welfare, South Korea",
       "url": "www.khidi.or.kr"
     }
   ],

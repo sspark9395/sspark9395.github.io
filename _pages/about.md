@@ -24,8 +24,7 @@ We are engaged in a wide range of translational medicine research, with a focus 
 
 We have recently published multiple studies related to senescence, aging, and cancer. Please check the publications, CV, and people pages in the upper menu.
 
-We are currently interested in establishing a foundation or a digital twin model based on transcriptomics data, such as single-cell RNA sequencing, using generative artificial intelligence.
+We are currently interested in establishing a foundation or a digital twin model based on transcriptomics data, such as single-cell RNA sequencing, using a generative artificial intelligence model.
 
-If you are interested in joining us, please do not hesitate to contact us via email at `sspark9395@ajou.ac.kr`.<br>
-Likewise, if you are interested in collaborating with us, please feel free to reach out!
+If you are interested in joining us, please do not hesitate to contact us via email at `sspark9395@ajou.ac.kr`. Likewise, if you are interested in collaborating with us, please feel free to reach out!
 

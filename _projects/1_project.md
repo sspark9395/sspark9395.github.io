@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Cancer Senescence
-description: How senescent cancer cells is associated with cancer progression and relapse?
+description: How senescent cancer cells are associated with cancer progression and relapse?
 img: assets/img/senescent.webp
 importance: 1
-category: Cellular Senescence and Aging
+category: Cellular Senescence
 related_publications: true
 ---
 

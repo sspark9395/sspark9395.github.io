@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Aging Foundation Model
+description: Can we find molecular patterns of aged organs using generative AI?
+img: assets/img/ai.webp
+importance: 1
+category: Artificial Intelligence in Medicine
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

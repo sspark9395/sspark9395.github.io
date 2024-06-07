@@ -6,7 +6,7 @@ subtitle: <a href='#'>Operated by</a> Soon Sang Park, M.D., Ph.D.
 
 profile:
   align: right
-  image: LogoATM.png
+  image: LogoATM3.tiff
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>(phone)+82-31-219-4443</p>

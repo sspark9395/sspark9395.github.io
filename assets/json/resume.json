@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Soon Sang Park",
-    "Degree": "M.D., Ph.D.",
-    "Position": "Research Fellow",
-    "Department": "Biochemistry and Molecular Biology",
-    "Affiliation": "Ajou University School of Medicine, South Korea", 
+    "name": "Soon Sang Park / 박순상",
+    "Degree": "M.D., Ph.D. / 의학박사",
+    "Position": "Research Fellow / 연구강사",
+    "Department": "Biochemistry and Molecular Biology / 생화학교실",
+    "Affiliation": "Ajou University School of Medicine, South Korea / <br>아주대학교 의과대학", 
     "image": "profile.png",
     "email": "sspark9395@ajou.ac.kr",
-    "phone": "(031) 219-4443",
+    "phone": "(+82) 31-219-4443",
     "url": "https://sspark9395.github.io",
     "location": {
       "address": "2712 Broadway St",

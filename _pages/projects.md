@@ -5,7 +5,7 @@ permalink: /projects/
 description: Change the world with creativity in ATM!
 nav: true
 nav_order: 3
-display_categories: [Cellular Senescence, Artificial Intelligence in Medicine]
+display_categories: [Cellular Senescence]
 horizontal: false
 ---
 

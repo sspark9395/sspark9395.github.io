@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Soon Sang Park / 박순상",
-    "Degree": "M.D., Ph.D. / 의학박사",
-    "Position": "Research Fellow / 연구강사",
-    "Department": "Biochemistry and Molecular Biology / 생화학교실",
-    "Affiliation": "Ajou University School of Medicine, South Korea <br>/ 아주대학교 의과대학, 대한민국", 
-    "image": "profile.png",
+    "name": "Soon Sang Park",
+    "Degree": "M.D., Ph.D.",
+    "Position": "Assistant Professor",
+    "Department": "Biochemistry and Molecular Biology",
+    "Affiliation": "Ajou University School of Medicine, South Korea", 
+    "image": "prof_pic.png",
     "email": "sspark9395@ajou.ac.kr",
     "phone": "(+82) 31-219-4443",
     "url": "https://sspark9395.github.io",
@@ -62,16 +62,7 @@
       "endDate": "2014-02",
       "summary": "Research on Lab-on-a-chip for Cancer Diagnosis<br>Advisor: Steven A. Soper, Ph.D.",
       "highlights": []
-    },
-    {
-      "name": "Ulsan National Institute of Science and Technology (UNIST)",
-      "position": "&ensp;Laboratory Internship",
-      "url": "https://www.unist.ac.kr/",
-      "startDate": "2013-06",
-      "endDate": "2015-05",
-      "summary": "Research on the role of TonEBP in inflammatory diseases<br>Advisor: Hyug Moo Kwon, Ph.D.",
-      "highlights": []
-    },    
+    },  
     {
       "name": "Ajou University School of Medicine",
       "position": "&nbsp;MD Assistant",
@@ -86,7 +77,16 @@
       "position": "&ensp;Research Fellow",
       "url": "https://www.ajoumc.or.kr/",
       "startDate": "2023-03-01",
-      "endDate": "Present",
+      "endDate": "2025-02-28",
+      "summary": "Research on Cellular Senescence <br> and Cancer Cell Senescence",
+      "highlights": []
+    },
+    {
+      "name": "Ajou University School of Medicine",
+      "position": "&ensp;&ensp;Assistant Professor",
+      "url": "https://www.ajoumc.or.kr/",
+      "startDate": "2025-03-01",
+      "endDate": "",
       "summary": "Research on Cellular Senescence <br> and Cancer Cell Senescence",
       "highlights": []
     }
@@ -104,45 +104,6 @@
       "awarder": "The Minister of Health and Welfare, South Korea",
       "url": "www.khidi.or.kr"
     }
-  ],
-  "publications": [
-    {
-      "name": "Cellular Senescence is Associated with the Spatial Evolution Towards a Higher Metastatic Phenotype in Colorectal Cancer",
-      "publisher": "Cell Reports",
-      "releaseDate": "2024-03-30",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2211124724002407?via%3Dihub",
-      "summary": ""
-    },
-    {
-      "name": "Mid-old Cells Are a Potential Target for Anti-aging Interventions in the Elderly",
-      "publisher": "Nature Communications",
-      "releaseDate": "2023-11-22",
-      "url": "https://www.nature.com/articles/s41467-023-43491-w",
-      "summary": ""
-    },
-    {
-      "name": "p15INK4B Is an Alternative Marker of Senescent Tumor Cells in Colorectal Cancer",
-      "publisher": "Heliyon",
-      "releaseDate": "2023-01-24",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2405844023003778?via%3Dihub",
-      "summary": ""
-    },
-    {
-      "name": "Senescent Tumor Cells: an Overlooked Adversary in the Battle Against Cancer",
-      "publisher": "Experimental and Molecular Medicine",
-      "releaseDate": "2021-12-24",
-      "url": "https://www.nature.com/articles/s12276-021-00717-5",
-      "summary": ""
-    },
-    {
-      "name": "Depressive Symptom Network Associated with Comorbid Anxiety in Late-life Depression",
-      "publisher": "Frontiers in Psychiatry",
-      "releaseDate": "2019-11-24",
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2019.00856/full",
-      "summary": ""
-    }
-
-
   ],
  "projects": [
     {

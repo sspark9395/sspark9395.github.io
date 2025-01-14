@@ -1,81 +1,72 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Cancer Senescence
+description: How senescent cancer cells are associated with cancer progression and relapse?
+img: assets/img/senesc.webp
 importance: 1
-category: work
+category: Cellular Senescence
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Cellular senescence is defined as an irreversible cell cycle arrest caused by various stresses. Interestingly, although cancer cells have the highest proliferative capacity within our body, they can also be driven into a senescent state by massive insults within the tumor microenvironment.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sst.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Senescence associated beta galactosidase staining (blue) shows senescent cancer cells in various cancer types. <br> Source: {% cite Park2021senescent %}
+</div>
+
+Non-proliferating cancer cells? You might find them a bit odd, and scientists initially thought the same. Consequently, they considered the possibility that these cancer cells might be a consequence of our body's defense mechanism against cancer progression; indeed, this is the case in the initial stages of carcinogenesis when oncogenes are highly overexpressed.
+
+However, in 2017, our laboratory was the first to reveal that these senescent cancer cells actually possess cancer-promoting potency. In cases of papillary thyroid cancer, we found that senescent cancer cells are located at the invasive front of the cancer tissue and actually act as the spearhead of cancer invasion.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thyroid-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/thyroid.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Senescent thyroid cancer cells (blue) are at the spearhead of the invasion (left). A schematic image is shown on the right.<br> Source: Kim Y.H. et al. Nat. Commun. (2017)
+</div>
+
+Moreover, senescent cancer cells are closely associated with the immune microenvironment of cancer. Cytotoxic T cells are one of the few cell types that have the potency to kill cancer cells. Indeed, senescent cancer cells express specific proteins that inhibit the infiltration of cytotoxic T cells into the cancer tissues. In other words, the presence of senescent cancer cells hinders and weakens the cancer-killing potency of our normal immune system.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/shield2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/shield.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+   Senescent cancer cells (p16<sup>INK4A</sup>-positive cancer cells) and CD8<sup>+</sup> cytotoxic T cells are shown (left). The underlying mechanism by which senescent cancer cells inhibit the infiltration of cytotoxic T cells (right). Source: Choi Y.W. et al. Adv. Sci. (2021)
+</div>
+
+Another notable feature is the uneven distribution of senescent cancer cells within cancer tissues. Interestingly, senescent cancer cells are located at the invasive front, while non-senescent, proliferating cancer cells are found near the relative center. In a subsequent study, we discovered that senescent tumor cells evolve from non-senescent tumor cells at the center. These senescent cancer cells, an evolved form of cancer cells, express various cancer-promoting factors, such as collagen and elastin-degrading molecules, and promote local invasion and metastasis.
+<br>
+<br/>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/evolution.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/evolution2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The distribution of p16<sup>INK4A</sup>-positive senescent cancer cells (upper). Cellular senescence and cancer cell evolution (lower). <br>Source: {% cite park2024cellular %}
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Although various interesting studies have been performed on senescent cancer cells, many questions remain unanswered. How do senescent cancer cells evade immune attacks and survive? How are they associated with cancer cell survival after chemotherapy? How are senescent cancer cells related to the long-term relapse of cancer? If you are interested in exploring these fascinating questions, please contact us to join or collaborate with our team!
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<br>
+<br/>

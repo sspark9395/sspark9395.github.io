@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Change the world with creativity in ATM!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Cellular Senescence]
 horizontal: false
 ---
 

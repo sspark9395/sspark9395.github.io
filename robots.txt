@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sspark9395.github.io/ajouatmlab.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sspark9395.github.io/ajouatmlab/sitemap.xml

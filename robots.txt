@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://github.com/sspark9395/atmlab.git/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sspark9395.github.io/ajouatmlab.io/sitemap.xml

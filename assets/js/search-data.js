@@ -410,9 +410,9 @@ ninja.data = [{
           description: "How cellular senescence is associated with aged phenotypes of individuals?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-cellular-senescence-and-aging",
+          title: 'Cellular Senescence and Aging',
+          description: "How cellular senescence is associated with skin aging and pigmentation-related diseases?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",

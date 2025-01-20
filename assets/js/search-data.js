@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "The curriculum vitae of the lab leader",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "ATM Lab Members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cellular Senescence and Aging
+title: Cellular Senescence and Skin
 description: How cellular senescence is associated with skin aging and pigmentation-related diseases?
 img: assets/img/skin.webp
 importance: 3

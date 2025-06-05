@@ -1,6 +1,6 @@
 <font size=5>Research Fellow: June Heo, Ph.D.</font>
 <br>
-`Dr. Heo` earned his Ph.D. degree from Ajou University School of Medicine. 
+`Dr. Heo` earned his Ph.D. degree from Ajou University School of Medicine.
 
 <p style="text-align: justify;">
 The title of his Ph.D. thesis was "Regulation of DNA-PKcs-mediated immune signaling by the E3 ligase MARCH5 in mitochondria-damaged cells."

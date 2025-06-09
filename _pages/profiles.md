@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: aqeel.jpg
+    image: Aqeel.jpeg
     content: about_aqeel.md
     image_circular: false # crops the image to make it circular
     more_info: >

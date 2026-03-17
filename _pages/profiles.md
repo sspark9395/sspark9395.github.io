@@ -2,27 +2,66 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: ATM Lab Members
 nav: true
-nav_order: 7
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: june.jpeg
+    content: about_heo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+  - align: right
+    image: Aqeel.jpeg
+    content: about_aqeel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  - align: right
+    image: syk.jpeg
+    content: about_syk.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: psh.jpeg
+    content: about_psh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: jh.jpeg
+    content: about_jh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: hs.jpeg
+    content: about_hs.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: mj.jpeg
+    content: about_mj.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: natasha.jpg
+    content: about_natasha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: ssb.jpeg
+    content: about_ssb.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: dj.jpeg
+    content: about_dj.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: wb.jpeg
+    content: about_wb.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---

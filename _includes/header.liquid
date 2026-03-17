@@ -148,3 +148,68 @@
     </progress>
   {% endif %}
 </header>
+
+<style>
+  /* 1. CV 전체 컨테이너 여백 제거 및 너비 100% */
+  .cv, .cv table.table-cv, .cv .list-groups {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-collapse: collapse !important;
+  }
+
+  /* 2. [핵심] 왼쪽 칸(연도/배지)의 너비를 120px로 완전 박제 */
+  .cv table.table-cv td:first-child,
+  .cv table.table-cv th:first-child {
+    width: 120px !important;
+    min-width: 120px !important;
+    max-width: 120px !important;
+    padding-left: 0 !important;
+    padding-right: 10px !important;
+    text-align: left !important;
+    vertical-align: top !important;
+  }
+
+  /* 3. 보라색 사각형 배지 스타일 (크기를 일정하게 고정) */
+  .cv .badge {
+    display: inline-block !important;
+    width: 100px !important;       /* 사각형 너비를 100px로 고정 */
+    min-width: 100px !important;
+    text-align: center !important;
+    padding: 5px 0 !important;
+    margin: 0 0 5px 0 !important;
+    font-size: 0.75rem !important;
+    border-radius: 4px !important;
+  }
+
+  /* 4. Experience 학교 위치 정보 (배지 아래 텍스트) 정렬 */
+  .cv p.location {
+    width: 100px !important;       /* 배지 너비와 동일하게 */
+    margin: 5px 0 0 0 !important;
+    padding: 0 !important;
+    font-size: 0.6rem !important;
+    line-height: 1.2 !important;
+    white-space: normal !important; /* 줄바꿈 허용 */
+    word-break: break-all !important;
+    display: block !important;
+    color: var(--global-text-color-light) !important;
+  }
+
+  .cv p.location i {
+    margin-right: 3px !important;
+  }
+
+  /* 5. 오른쪽 내용(제목, 설명) 시작점 통일 */
+  .cv table.table-cv td:last-child {
+    padding-left: 10px !important;
+    text-align: left !important;
+    vertical-align: top !important;
+    width: auto !important;
+  }
+
+  /* 6. Awards 섹션이 밀리는 현상 방지 */
+  #awards, .awards, .list-groups {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+</style>

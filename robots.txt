@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ajouatmlab.com/al-folio/sitemap.xml
+Sitemap: https://ajouatmlab.com/sitemap.xml

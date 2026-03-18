@@ -20,17 +20,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: syk.jpeg
+    image: syk.jpg
     content: about_syk.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: psh.jpeg
+    image: psh.jpg
     content: about_psh.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: hr.jpeg
+    image: hr.jpg
     content: about_hr.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -55,7 +55,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: ssb.jpeg
+    image: ssb.jpg
     content: about_ssb.md
     image_circular: false # crops the image to make it circular
     more_info: >

@@ -58,7 +58,7 @@ ninja.data = [{
           section: "News",},{id: "news-dr-so-young-kim-dr-seong-hwan-park-and-ms-su-bin-seo-joined-our-lab-welcome",
           title: 'Dr. So Young Kim, Dr. Seong Hwan Park, and Ms. Su Bin Seo...',
           description: "",
-          section: "News",},{id: "news-prof-park-was-selected-for-the-2026-national-research-foundation-of-korea-basic-research-program-for-early-career-researchers-and-will-receive-approximately-krw-200-million-per-year-including-indirect-costs-over-five-years",
+          section: "News",},{id: "news-prof-park-was-selected-for-the-2026-national-research-foundation-of-korea-basic-research-program-for-early-career-researchers-and-will-receive-approximately-krw-150-million-per-year-over-five-years",
           title: 'Prof. Park was selected for the 2026 National Research Foundation of Korea Basic...',
           description: "",
           section: "News",},{id: "projects-cancer-senescence",

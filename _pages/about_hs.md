@@ -1,6 +1,6 @@
 <font size=5>M.S. Student: Hyun Seo Yu</font>
 <br>
-MS. Yu earned her B.S. degree from Ajou University.
+`MS. Yu` earned her B.S. degree from Ajou University.
 
 <p style="text-align: justify;">
 At the ATM Lab, Yu’s primary responsibility is to uncover the phenotypic diversity of senescent tumor cells based on their microsatellite stability. 

@@ -1,6 +1,6 @@
 <font size=5>Integrated M.S.-Ph.D. Course: Hyoung Rae Lee</font>
 <br>
-Mr. Lee earned his B.S. degree from Myungji University.
+`Mr. Lee` earned his B.S. degree from Myungji University.
 
 <p style="text-align: justify;">
 At the ATM Lab, Lee's primary responsibility is to investigate the role of CD44 in senescent tumor cells

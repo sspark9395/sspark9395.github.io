@@ -1,6 +1,6 @@
 <font size=5>Integrated M.S.-Ph.D. Course: Jin Ho Bae</font>
 <br>
-Mr. Bae earned his B.S. degree from Yonsei University.
+`Mr. Bae` earned his B.S. degree from Yonsei University.
 
 <p style="text-align: justify;">
 At the ATM Lab, Bae's primary responsibility is to investigate the role of cellular senescence in prostate cancer metastasis. 
